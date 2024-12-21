@@ -1,0 +1,12 @@
+{
+                    "add" => {}
+                   "replay" => {}
+                   "play" | "pause" | "p" => {}
+                   "clear" => {}
+                   "next" => {}
+                    "prev" => {}
+                   "exit" => {}
+                   "show" | "ls" => {}
+                   "playlist" | "pl" => {}
+                   "track_ended" => {}
+               }
