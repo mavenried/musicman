@@ -1,12 +1,12 @@
 [package]
 name = "musicman"
-version = "0.1.4"
+version = "0.1.5"
 authors = ["Joseph Chacko <josephchacko2006@gmail.com>"]
 license = "MIT OR Apache-2.0"
 description = "Simple cli for playing music in the ~/Music folder"
 readme = "README.md"
-homepage = "https://github.com/maverik-io"
-repository = "https://github.com/maverik-io/musicman"
+homepage = "https://github.com/mavenried"
+repository = "https://github.com/mavenried/musicman"
 keywords = ["cli", "music","player"]
 categories = ["command-line-utilities"]
 edition = "2021"

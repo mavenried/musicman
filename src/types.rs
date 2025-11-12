@@ -29,5 +29,4 @@ pub enum ShowCommand {
 #[derive(Debug)]
 pub enum PlayerCommand {
     Play(String),
-    TogglePlayState,
 }
