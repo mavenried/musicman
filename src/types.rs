@@ -10,6 +10,8 @@ pub enum Command {
     Replay,
     Show(ShowCommand),
     TrackEnd,
+    Number(String),
+    Error(String),
 }
 
 #[derive(Debug)]
